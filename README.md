@@ -36,7 +36,7 @@ To achieve real-time performance, the system utilizes a **Hybrid Executive Archi
 
 3.  **Run the main script** for the final optimized version:
     ```matlab
-    >> SAR_RL_Hysteretic_UI_Fix
+    >> Heurestic Q Learning with BFS and Mahattan Distance_Final model (Phase6).m
     ```
 
 4.  **Control Panel Instructions:**
